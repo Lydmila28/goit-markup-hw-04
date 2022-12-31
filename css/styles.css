@@ -367,6 +367,11 @@ cursor: pointer;
  .header {
  border: 1px solid #ECECEC;
 }
+.filter-link {
+    
+        text-decoration: none;
+        color: inherit;
+}
  .filter-container {
     display: flex;
     justify-content: center;
